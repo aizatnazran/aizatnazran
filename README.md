@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aizatnazran" alt="aizatnazran" /></a> </p>
 
-- 🔭 I’m currently working on **ERP**
-
 - 🌱 I’m currently learning **DevOps, Cloud**
 
-- 💬 Ask me about **Vue and Node.js**
-
-- 📫 How to reach me **aizatnazran@gmail.com**
+- 📫 Reach me at **aizatnazran@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
