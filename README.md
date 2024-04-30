@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aizatnazran" alt="aizatnazran" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps, Cloud**
+- 🌱 I’m currently learning **DevOps and Cloud**
 
 - 📫 Reach me at **aizatnazran@gmail.com**
 
